@@ -1,10 +1,9 @@
 # Hi, I'm Robin! 👋
 
-🗽 From NYC | Incoming CS student at SNHU
+🗽 From NYC | CS Undergrad
+Currently learning Python and building my programming foundation.
 
-Currently learning Python, working through Harvard's CS50 courses, and building my first projects.
-
-I'm interested in software engineering and cybersecurity. Still figuring things out, but I'm enjoying learning how everything works behind the scenes.
+I'm interested in machine learning infrastructure, applied machine learning, and backend engineering. I enjoy figuring out how things work behind the scenes and building things that are actually useful.
 
 ### Connect With Me!
 [LinkedIn](https://www.linkedin.com/in/robin-sutherland-259004248)
